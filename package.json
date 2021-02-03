@@ -1,0 +1,12 @@
+{
+    "name": "my-first-project",
+    "description": "My first demo project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "demo.json",
+            "credentialsFile": "demo_cred.json"
+        }
+    }
+}
